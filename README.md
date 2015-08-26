@@ -11,7 +11,9 @@ Do you visit some websites more than you'd like? Are there some websites, on the
 
 On Ubuntu:
 
-  make install
+```
+make install
+```
 
 and restart your computer.
 
